@@ -3,7 +3,7 @@ Hi 👋 My name is Gurmanpreet Singh
 Front End Developer - React, Next.js 🔥
 ---------------------------------------------
 I have been learning to code for a few years now and now i m ReactJS Developer. 
-* 🌍  I'm based in Chandigarh
+* 🌍  I'm Working in Panchkula 
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on projects. Send me a Mail! [gsingh07@outlook.in](mailto:gsingh07@outlook.in)
 ### Skills
